@@ -1,0 +1,4 @@
+il existe divers types de maniocs:
+1. Long maniocs
+2. Maniocs de longueur moyenne,
+3. Maniocs courts.
